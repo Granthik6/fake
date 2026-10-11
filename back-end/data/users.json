@@ -1,0 +1,324 @@
+[
+  {
+    "id": "SU-001",
+    "username": "superuser",
+    "name": "John Do",
+    "email": "superuser@deliverysync.com",
+    "role": "superuser",
+    "status": "Active",
+    "phone": "9876543210",
+    "lastLogin": "2026-10-11T07:45:06.968Z",
+    "profileDetails": {
+      "fullName": "Aarav Menon"
+    },
+    "password": "$2b$10$wSAGqm7ZjjHYPfHgl5WdyuNoAkdBojnmLQdAWWafhSvsStRVXomzy",
+    "notifications": [
+      "string"
+    ],
+    "companyName": "Acme Logistics Inc.",
+    "company": "Acme Logistics Inc.",
+    "address": "123 Business Avenue",
+    "failedLoginAttempts": 0
+  },
+  {
+    "id": "FM-101",
+    "username": "fleetmanager",
+    "name": "Riya",
+    "email": "fleet@deliverysync.com",
+    "role": "fleet-manager",
+    "status": "Active",
+    "phone": "9000000052",
+    "lastLogin": "2026-10-11T07:43:30.882Z",
+    "profileDetails": {
+      "companyName": "DeliverSync Logistics Pvt Ltd",
+      "companyAddress": "OMR, Chennai",
+      "numberOfVehicles": "24",
+      "fleetSettings": {
+        "autoAssign": true,
+        "gpsTracking": true,
+        "fuelMonitoring": true,
+        "autoComplete": false
+      }
+    },
+    "password": "$2b$10$ASw4.u0s/5vuB6mLNOOLreIk..CRj4EgKD/rsiivFj/9cAaSiSdd6",
+    "companyName": "",
+    "company": "",
+    "address": "",
+    "failedLoginAttempts": 0
+  },
+  {
+    "id": "BC-201",
+    "username": "businessclient",
+    "name": "Acme Logistics",
+    "email": "client@deliverysync.com",
+    "role": "business-client",
+    "status": "Active",
+    "phone": "9988776655",
+    "lastLogin": "2026-10-11T07:44:13.412Z",
+    "profileDetails": {
+      "companyName": "Acme Logistics",
+      "fullName": "Acme Logistics",
+      "businessAddress": "OMR, Chennai",
+      "companyContactNumber": "9988776655"
+    },
+    "password": "$2b$10$kqgn2RYEqYXkL6QraPJlDesnfrNhqSGVeQPZkUuol.ybh2FXsqmVG",
+    "companyName": "Acme",
+    "company": "Acme",
+    "address": "tada",
+    "failedLoginAttempts": 0
+  },
+  {
+    "id": "BC-202",
+    "username": "urbancart",
+    "name": "UrbanKart Retail",
+    "email": "urbancart@deliverysync.com",
+    "password": "$2b$10$HMndE9LfCLxrl3C6dD15G.4lkS9btT/TwRovnmN/BLCyvvKO99UDW",
+    "role": "business-client",
+    "status": "Active",
+    "phone": "+91 9123456780",
+    "lastLogin": "2026-08-31T10:59:42.445Z",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {
+      "companyName": "UrbanKart Retail",
+      "fullName": "UrbanKart Retail",
+      "businessAddress": "Koramangala, Bengaluru",
+      "companyContactNumber": "9123456780"
+    }
+  },
+  {
+    "id": "BC-203",
+    "username": "cascade",
+    "name": "Cascade Distribution",
+    "email": "cascade@deliverysync.com",
+    "password": "$2b$10$RmdYgHOemsPTM10usVIS5exrzWmXmEysURjrBAmj5ywHq.OBMX3Nq",
+    "role": "business-client",
+    "status": "Pending Approval",
+    "phone": "+91 9340011223",
+    "lastLogin": "Never",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {
+      "companyName": "Cascade Distribution",
+      "fullName": "Cascade Distribution",
+      "businessAddress": "Gachibowli, Hyderabad",
+      "companyContactNumber": "9340011223"
+    }
+  },
+  {
+    "id": "DR-301",
+    "username": "driver",
+    "name": "Raghav Reddy",
+    "email": "driver@deliverysync.com",
+    "password": "$2b$10$7FnnfW/YQ84FSw5PE0WEAeLBVrRZ4Np9HMQPT/lWMnq7iMjg2mfba",
+    "role": "driver",
+    "status": "Available",
+    "phone": "944001122",
+    "lastLogin": "2026-10-11T07:44:44.855Z",
+    "notifications": [
+      "Email",
+      "SMS"
+    ],
+    "profileDetails": {
+      "licenseNumber": "TN03201800034521",
+      "driverId": "DRV-1032",
+      "vehicle": "TN09AB1234",
+      "phone": "944001122",
+      "license": "TN03201800034521",
+      "vehicleType": "",
+      "status": "Available"
+    },
+    "fullName": "Raghav Reddy",
+    "licenseNumber": "TN03201800034521",
+    "license": "TN03201800034521",
+    "vehicle": "TN09AB1234",
+    "vehicleType": "",
+    "companyName": "",
+    "company": "",
+    "address": "",
+    "failedLoginAttempts": 0
+  },
+  {
+    "id": "DR-302",
+    "username": "kiranteja",
+    "name": "Kiran Teja",
+    "email": "kiran@deliverysync.com",
+    "password": "$2b$10$NcWwWFGiuU2bR4hOyy9.HeXEoUaN7XuleKTIA4yiVAlAOtW9T8VVW",
+    "role": "driver",
+    "status": "Active",
+    "phone": "+91 9555500011",
+    "lastLogin": "2026-08-31T10:59:42.127Z",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {
+      "licenseNumber": "AP07202100012478",
+      "driverId": "DRV-1041",
+      "vehicle": "KA03PQ9876"
+    }
+  },
+  {
+    "id": "DR-303",
+    "username": "manojkumar",
+    "name": "Manoj Kumar",
+    "email": "manoj@deliverysync.com",
+    "password": "$2b$10$Dm.e4IzVgtLkqgGGgaXDL.wKM/UbZwUnMVws3.UULwelj.dqV.1YO",
+    "role": "driver",
+    "status": "Pending Approval",
+    "phone": "+91 9666677788",
+    "lastLogin": "Never",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {
+      "licenseNumber": "TS12202000098765",
+      "driverId": "DRV-1055",
+      "vehicle": "TS08XY2045"
+    }
+  },
+  {
+    "id": "DR-304",
+    "username": "sureshbabu",
+    "name": "Suresh Babu",
+    "email": "suresh@deliverysync.com",
+    "password": "$2b$10$WdnqUCpNOVgZGZSfr/Ya8.o5Xor.wpLjrg.sWiPfAgfU0rwSIAWga",
+    "role": "driver",
+    "status": "Suspended",
+    "phone": "+91 6543210987",
+    "lastLogin": "2026-04-28 07:00 AM",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {
+      "licenseNumber": "DL08201900091256",
+      "driverId": "DRV-1062",
+      "vehicle": "--"
+    }
+  },
+  {
+    "id": "DR-305",
+    "username": "rahulsingh",
+    "name": "Rahul Singh",
+    "email": "rahul@deliverysync.com",
+    "password": "$2b$10$3fZhJgMD1pje3bMnvivKWetG8ixwglmCw99l2/cX8KX440QDySdcK",
+    "role": "driver",
+    "status": "Active",
+    "phone": "+91 9876543210",
+    "lastLogin": "2026-05-03 05:45 AM",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {
+      "licenseNumber": "DL01202000045678",
+      "driverId": "DRV-1070",
+      "vehicle": "DL-01-AB-1234"
+    }
+  },
+  {
+    "id": "FM-306",
+    "username": "priyagupta",
+    "name": "Priya Gupta",
+    "email": "priya@deliverysync.com",
+    "password": "$2b$10$Ot0ar8XdtKpmuAdpSeI4vuG1jQDhlZS3GqpB.DGLFzBFmZcEWYRA.",
+    "role": "fleet-manager",
+    "status": "Active",
+    "phone": "9999888877",
+    "lastLogin": "Never",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {}
+  },
+  {
+    "id": "FM-307",
+    "username": "johndoe",
+    "name": "John Doe",
+    "email": "john@deliverysync.com",
+    "password": "$2b$10$q9Wz4.GQxkgSYTiWa2juIe5e17YQRyf4inMcDr6zmLsI5IZB7bg/u",
+    "role": "fleet-manager",
+    "status": "Active",
+    "phone": "9876543210",
+    "lastLogin": "Never",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {}
+  },
+  {
+    "id": "BC-308",
+    "username": "bhailogistics",
+    "name": "bhai logistics",
+    "email": "srujan@gmail.com",
+    "password": "$2b$10$tnBhYyaPRtYCciGHR95byOGlt6KTA7Tlv5MOVHV7xSKgrWIUOEwPe",
+    "role": "business-client",
+    "status": "Active",
+    "phone": "7894561233",
+    "lastLogin": "Never",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {
+      "companyName": "bhai logistics",
+      "fullName": "srujan k",
+      "businessAddress": "tada ap sricity",
+      "companyContactNumber": "8553200879"
+    }
+  },
+  {
+    "id": "FM-309",
+    "username": "tarun",
+    "name": "tarun",
+    "email": "jgjgy@gmail.com",
+    "password": "$2b$10$ZIXIEJlVHyq59GWL3lLTDeSWAtqSI/MN1CDMtZkMA5DTssbUjIOwu",
+    "role": "fleet-manager",
+    "status": "Active",
+    "phone": "9876543210",
+    "lastLogin": "Never",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {}
+  },
+  {
+    "id": "FM-310",
+    "username": "srujan",
+    "name": "srujan",
+    "email": "srujan2@gmail.com",
+    "password": "$2b$10$dGUqMg9eHUQpVnwOYcgiQ.C1fcR4cUf/eqQhaf8sWul25f/CaeuYe",
+    "role": "fleet-manager",
+    "status": "Active",
+    "phone": "9988776655",
+    "lastLogin": "2026-08-28T13:20:48.518Z",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {
+      "companyName": "UrbanCart Retail",
+      "companyAddress": "tada sricity",
+      "numberOfVehicles": "24"
+    },
+    "companyName": "",
+    "company": "",
+    "address": ""
+  },
+  {
+    "id": "FM-311",
+    "username": "johndoe",
+    "name": "John Doe",
+    "email": "ice@deliverysync.com",
+    "password": "$2b$10$bjjWiJf3PM5.CebCDtvkQOSnW8JPamXC61jFqTK0ybKpB.NHRo6wG",
+    "role": "fleet-manager",
+    "status": "Active",
+    "phone": "9876543210",
+    "lastLogin": "Never",
+    "notifications": [
+      "Email"
+    ],
+    "profileDetails": {},
+    "companyName": "Acme Logistics Inc.",
+    "company": "Acme Logistics Inc.",
+    "address": "123 Business Avenue"
+  }
+]
